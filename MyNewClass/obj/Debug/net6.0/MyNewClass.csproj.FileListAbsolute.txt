@@ -1,0 +1,15 @@
+C:\Users\Randy Miller\source\repos\MyNewClass\MyNewClass\bin\Debug\net6.0\MyNewClass.exe
+C:\Users\Randy Miller\source\repos\MyNewClass\MyNewClass\bin\Debug\net6.0\MyNewClass.deps.json
+C:\Users\Randy Miller\source\repos\MyNewClass\MyNewClass\bin\Debug\net6.0\MyNewClass.runtimeconfig.json
+C:\Users\Randy Miller\source\repos\MyNewClass\MyNewClass\bin\Debug\net6.0\MyNewClass.dll
+C:\Users\Randy Miller\source\repos\MyNewClass\MyNewClass\bin\Debug\net6.0\MyNewClass.pdb
+C:\Users\Randy Miller\source\repos\MyNewClass\MyNewClass\obj\Debug\net6.0\MyNewClass.csproj.AssemblyReference.cache
+C:\Users\Randy Miller\source\repos\MyNewClass\MyNewClass\obj\Debug\net6.0\MyNewClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Randy Miller\source\repos\MyNewClass\MyNewClass\obj\Debug\net6.0\MyNewClass.AssemblyInfoInputs.cache
+C:\Users\Randy Miller\source\repos\MyNewClass\MyNewClass\obj\Debug\net6.0\MyNewClass.AssemblyInfo.cs
+C:\Users\Randy Miller\source\repos\MyNewClass\MyNewClass\obj\Debug\net6.0\MyNewClass.csproj.CoreCompileInputs.cache
+C:\Users\Randy Miller\source\repos\MyNewClass\MyNewClass\obj\Debug\net6.0\MyNewClass.dll
+C:\Users\Randy Miller\source\repos\MyNewClass\MyNewClass\obj\Debug\net6.0\refint\MyNewClass.dll
+C:\Users\Randy Miller\source\repos\MyNewClass\MyNewClass\obj\Debug\net6.0\MyNewClass.pdb
+C:\Users\Randy Miller\source\repos\MyNewClass\MyNewClass\obj\Debug\net6.0\MyNewClass.genruntimeconfig.cache
+C:\Users\Randy Miller\source\repos\MyNewClass\MyNewClass\obj\Debug\net6.0\ref\MyNewClass.dll
